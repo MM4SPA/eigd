@@ -1,0 +1,13 @@
+name: eigd
+dependencies:
+  - python=3.9
+  - h5py=3.6
+  - scipy=1.7.3
+  - black
+  - pyyaml
+  - tqdm
+  - pip
+  - pip:
+    - jupyterlab==3.2.9
+    - matplotlib==3.5.1
+    - pandas==1.4.0
