@@ -5,7 +5,7 @@
 You may need to download the resource files (image, video) first:
 
 ```sh
-wget https://data.uni-hannover.de/dataset/eigd/resource/f249b451-d277-4f6f-9a3f-83cae423c3b6
+wget https://data.uni-hannover.de/dataset/8ccb364e-145f-4b28-8ff4-954b86e9b30d/resource/f249b451-d277-4f6f-9a3f-83cae423c3b6/download/screenshots_and_clips.zip
 unzip screenshots_and_clips.zip -d screenshots_and_clips
 ```
 
